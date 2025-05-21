@@ -10,8 +10,6 @@ It allows users to calculate how much tip to leave and how much each person shou
 ## 💡 Features
 
 - Enter the total bill amount
-- Select or enter a custom tip percentage
-- Option to split the bill among people
 - Real-time calculation of tip and total per person
 - Clean, mobile-friendly design
 
